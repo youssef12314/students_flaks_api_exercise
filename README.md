@@ -35,7 +35,7 @@ The code in this repository creates a Flask rest api. The code is developed in a
 You will now get errors telling that some attributes is not defined.
 
 ### Install the right version of the dependencies
-The problem with the dependencies, is that a new major version of Flask and Flask-SQLAlchemy has been released since the development of this Students api application. At the moment it is Flask version 3.x.x and the one usen in this application is 2.x.x.
+The problem with the dependencies, is that a new major version of Flask and Flask-SQLAlchemy has been released since the development of this Students api application. At the moment it is Flask version 3.x.x and the one used in this application is 2.x.x.
 
 1. Run the commands:
 
@@ -60,7 +60,7 @@ This will create a requirements.txt file in the folder.
 5. Merge your branch into the master branch
 6. Open a Codespace from your version of the project.
 
-This should open a version with the right dependency versions install.
+This should open a version with the right dependency versions installed.
 
 7. Run the app again by typing the command ```Python app.py```
 
