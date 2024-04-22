@@ -27,7 +27,7 @@ Structure of a student:
 The code in this repository creates a Flask rest api. The code is developed in an older version of Flask than the newest one avaliable. So when you install the dependencies (Flask and Flask-SQLAlchemy and Werkzeug) you will not be able to run the app. Your job is to first try to run it a see it fail, then fix the dependency issues, and then fix the repository so that future users of the application will have the right versions of the dependencies from the beginning. 
 
 ### Run the app and se it fail.
-1. Open this repository in Codespaces.
+1. Open this repository (clone it or in Codespaces).
 2. Run it by typing the command ```Python app.py```
 3. Install the missing dependencies (your terminal tells you wich is missing)
 4. Run the app again.
