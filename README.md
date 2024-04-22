@@ -54,7 +54,7 @@ In order for others not to have to do the steps you just performed every time th
 
 This will create a requirements.txt file in the folder.
 
-2. Open the requirements.txt file and have a look at whats in the file. 
+2. Open the requirements.txt file and have a look at what´s in the file. 
 3. add, commit and push your changes (this will create a fork in your own repository)
 4. Delete the Codespace
 5. Merge your branch into the master branch
