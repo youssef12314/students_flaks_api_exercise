@@ -40,7 +40,7 @@ The problem with the dependencies, is that a new major version of Flask and Flas
 1. Run the commands:
 
 ``` 
-    pip install Flask==2.2.5 Flask-SQLAlchemy==3.1.1 SQLAlchemy==2.0.23 Werkzeug==3.0.2
+    pip install Flask==2.2.5 Flask-SQLAlchemy==3.1.1 Werkzeug==3.0.2
 ``` 
 
 2. Run the app again by typing the command ```Python app.py```
