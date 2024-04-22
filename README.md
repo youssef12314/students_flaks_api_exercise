@@ -48,7 +48,7 @@ The problem with the dependencies, is that a new major version of Flask and Flas
 Now your application should work and you can see it in the browser.
 
 ### Create a requirements.txt file
-In order for others not to have to do the steps you just performed every time they clone the repository, you need to fix this repository by making a ```requirements.txt``` file containing the apllication dependencies. When this is done users of the repository could just open it in Codespaces and then the right dependencies will be installed. If someone wants to run the code more locally, the dependencies can be installed with the command ```pip install -r requirements.txt``` 
+In order for others not to have to do the steps you just performed every time they clone the repository, you need to fix this repository by making a ```requirements.txt``` file containing the apllication dependencies. When this is done users of the repository could just open it in Codespaces and then the right dependencies will automatically be installed. If someone wants to run the code more locally, the dependencies can be installed with the command ```pip install -r requirements.txt``` 
 
 1. Write the command ```pip freeze > requirements.txt``` 
 
